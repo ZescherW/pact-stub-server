@@ -17,7 +17,7 @@ For each interaction, it will compare any incoming request against those defined
 The pact stub server is bundled as a single binary executable `pact-stub-server`. Running this with out any options displays the standard help.
 
 ```console
-pact-stub-server v0.2.2
+pact-stub-server v0.3.1
 Pact Stub Server
 
 USAGE:
